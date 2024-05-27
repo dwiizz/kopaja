@@ -66,8 +66,8 @@
       "show_banner_ad_search": true,
       "show_interstitial_ad_post_list": true,
       "show_interstitial_ad_post_details": true,
-      "show_native_ad_post_list": true,
-      "show_native_ad_post_details": true,
+      "show_native_ad_post_list": false,
+      "show_native_ad_post_details": false,
       "show_native_ad_exit_dialog": true,
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
@@ -125,7 +125,7 @@
    "id": 1,
    "category": "Cek Pajak",
    "title": "Cek Pajak Banten",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/banten.png",
    "content": "https://dwiizz.github.io/kopaja/banten.html",
    "video": ""
  },
@@ -133,7 +133,7 @@
    "id": 2,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Barat",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/jabar.png",
    "content": "https://dwiizz.github.io/kopaja/jabar.html",
    "video": ""
  },
@@ -141,7 +141,7 @@
    "id": 3,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Barat 2",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/samb.png",
    "content": "https://dwiizz.github.io/kopaja/jabar2.html",
    "video": ""
  },
@@ -149,7 +149,7 @@
    "id": 4,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Tengah",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/jateng.png",
    "content": "https://dwiizz.github.io/kopaja/jateng.html",
    "video": ""
  },
@@ -157,7 +157,7 @@
    "id": 5,
    "category": "Cek Pajak",
    "title": "Cek Pajak Daerah Istimewa Yogyakarta",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/diy.png",
    "content": "https://dwiizz.github.io/kopaja/diy.html",
    "video": ""
  },
@@ -165,7 +165,7 @@
    "id": 6,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Timur",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/jatim.png",
    "content": "https://dwiizz.github.io/kopaja/jatim.html",
    "video": ""
  },
@@ -173,7 +173,7 @@
    "id": 7,
    "category": "Cek Pajak",
    "title": "Cek Pajak Bali",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/bali.png",
    "content": "https://dwiizz.github.io/kopaja/bali.html",
    "video": ""
  },
@@ -181,7 +181,7 @@
    "id": 8,
    "category": "Cek Pajak",
    "title": "Cek Pajak Aceh",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/aceh.png",
    "content": "https://dwiizz.github.io/kopaja/aceh.html",
    "video": ""
  },
@@ -189,7 +189,7 @@
    "id": 9,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Utara",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/sumut.png",
    "content": "https://dwiizz.github.io/kopaja/sumut.html",
    "video": ""
  },
@@ -197,7 +197,7 @@
    "id": 10,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Barat",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/sumbar.png",
    "content": "https://dwiizz.github.io/kopaja/sumbar.html",
    "video": ""
  },
@@ -205,7 +205,7 @@
    "id": 11,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Selatan",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/sumsel.png",
    "content": "https://dwiizz.github.io/kopaja/sumsel.html",
    "video": ""
  },
@@ -213,7 +213,7 @@
    "id": 12,
    "category": "Cek Pajak",
    "title": "Cek Pajak Bengkulu",
-   "image": "https://pusako.bengkuluprov.go.id/public/assets/img/logo/pusako-line.png",
+   "image": "https://dwiizz.github.io/kopaja/bengkulu.png",
    "content": "https://dwiizz.github.io/kopaja/bengkulu.html",
    "video": ""
  },
@@ -221,7 +221,7 @@
    "id": 13,
    "category": "Cek Pajak",
    "title": "Cek Pajak Riau",
-   "image": "https://bapenda.riau.go.id/assets/img/logo_atas_besar.png",
+   "image": "https://dwiizz.github.io/kopaja/riau.png",
    "content": "https://dwiizz.github.io/kopaja/riau.html",
    "video": ""
  },
@@ -229,7 +229,7 @@
    "id": 14,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kepulauan Riau",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/kepri.png",
    "content": "https://dwiizz.github.io/kopaja/kepri.html",
    "video": ""
  },
@@ -237,7 +237,7 @@
    "id": 15,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jambi",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/jambi.png",
    "content": "https://dwiizz.github.io/kopaja/jambi.html",
    "video": ""
  },
@@ -245,7 +245,7 @@
    "id": 16,
    "category": "Cek Pajak",
    "title": "Cek Pajak Lampung",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/lampung.png",
    "content": "https://dwiizz.github.io/kopaja/lampung.html",
    "video": ""
  },
@@ -253,7 +253,7 @@
    "id": 18,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Barat",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/kalbar.png",
    "content": "https://dwiizz.github.io/kopaja/kalbar.html",
    "video": ""
  },
@@ -261,7 +261,7 @@
    "id": 19,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Tengah",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/kalteng.png",
    "content": "https://dwiizz.github.io/kopaja/kalteng.html",
    "video": ""
  },
@@ -269,7 +269,7 @@
    "id": 20,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Timur",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/kaltim.png",
    "content": "https://dwiizz.github.io/kopaja/kaltim.html",
    "video": ""
  },
@@ -277,7 +277,7 @@
    "id": 22,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sulawesi Tengah",
-   "image": "https://w7.pngwing.com/pngs/880/531/png-transparent-the-mp-car-group-car-dealership-vehicle-auto-detailing-car-logo-text-logo-car.png",
+   "image": "https://dwiizz.github.io/kopaja/sulteng.png",
    "content": "https://dwiizz.github.io/kopaja/sulteng.html",
    "video": ""
  },
@@ -285,7 +285,7 @@
    "id": 23,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sulawesi Utara",
-   "image": "https://bapenda.sulutprov.go.id/imgwebx/parallax-slider/images/head2.png",
+   "image": "https://dwiizz.github.io/kopaja/sulut.png",
    "content": "https://dwiizz.github.io/kopaja/sulut.html",
    "video": ""
  },
@@ -293,7 +293,7 @@
    "id": 24,
    "category": "Cek Pajak",
    "title": "Cek Pajak Nusa Tenggara Barat",
-   "image": "https://www.omazaki.co.id/system/uploads/2019/09/Artikel-9-Feature-Volkswagen-MEB-Architecture.jpg",
+   "image": "https://dwiizz.github.io/kopaja/ntb.png",
    "content": "https://dwiizz.github.io/kopaja/ntb.html",
    "video": ""
  },
@@ -301,7 +301,7 @@
    "id": 25,
    "category": "Cek Pajak",
    "title": "Cek Pajak Nusa Tenggara Timur",
-   "image": "https://bpad.nttprov.go.id/assets/user/img/3logo.png",
+   "image": "https://dwiizz.github.io/kopaja/ntt.png",
    "content": "https://dwiizz.github.io/kopaja/ntt.html",
    "video": ""
  },
@@ -309,7 +309,7 @@
    "id": 26,
    "category": "Cek Pajak",
    "title": "Cek Pajak Maluku Utara",
-   "image": "https://esamsat.malukuprov.go.id/images/btn_cari.jpg",
+   "image": "https://dwiizz.github.io/kopaja/maluku.png",
    "content": "https://dwiizz.github.io/kopaja/malut.html",
    "video": ""
  },
@@ -317,7 +317,7 @@
    "id": 27,
    "category": "Cek Pajak",
    "title": "Cek Pajak Papua",
-   "image": "http://180.250.219.60:81/cekpajak/images/headerkiri.jpg",
+   "image": "https://dwiizz.github.io/kopaja/papua.png",
    "content": "https://dwiizz.github.io/kopaja/papua.html",
    "video": ""
  }
