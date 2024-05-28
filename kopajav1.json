@@ -103,6 +103,14 @@
   ],
   "posts": [
  {
+   "id": null,
+   "category": "Info Samsat",
+   "title": "Informasi Pemutihan Terbaru",
+   "image": "https://bapenda.jabarprov.go.id/wp-content/uploads/2022/09/Pemutihan-01.png",
+   "content": "https://dwiizz.github.io/kopaja/pemutihan.html",
+   "video": ""
+ },
+ {
    "id": 1,
    "category": "Cek Pajak",
    "title": "Cek Pajak Banten",
@@ -300,6 +308,14 @@
    "title": "Cek Pajak Papua",
    "image": "https://dwiizz.github.io/kopaja/papua.png",
    "content": "https://dwiizz.github.io/kopaja/papua.html",
+   "video": ""
+ },
+ {
+   "id": null,
+   "category": "Konsultasi",
+   "title": "Bertanya Langsung Kepada CS Kopaja",
+   "image": "https://convergence.id/wp-content/uploads/2022/11/Cara-meningkatkan-Customer-Satisfaction.webp",
+   "content": "https://dwiizz.github.io/kopaja/pertanyaan.html",
    "video": ""
  }
 ]
