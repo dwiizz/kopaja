@@ -55,7 +55,7 @@
       "wortise_interstitial_id": "test-interstitial",
       "wortise_native_id": "test-native",
       "wortise_app_open_id": "test-app-open",
-      "interstitial_ad_interval": 3,
+      "interstitial_ad_interval": 11,
       "native_ad_index": 1,
       "native_ad_interval": 8,
       "native_ad_style": "medium",
@@ -125,7 +125,7 @@
    "id": 1,
    "category": "Cek Pajak",
    "title": "Cek Pajak Banten",
-   "image": "https://dwiizz.github.io/kopaja/banten.png",
+   "image": "https://dwiizz.github.io/kopaja/bant.png",
    "content": "https://dwiizz.github.io/kopaja/banten.html",
    "video": ""
  },
@@ -133,7 +133,7 @@
    "id": 2,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Barat",
-   "image": "https://dwiizz.github.io/kopaja/jabar.png",
+   "image": "https://dwiizz.github.io/kopaja/jb.png",
    "content": "https://dwiizz.github.io/kopaja/jabar.html",
    "video": ""
  },
@@ -149,7 +149,7 @@
    "id": 4,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Tengah",
-   "image": "https://dwiizz.github.io/kopaja/jateng.png",
+   "image": "https://dwiizz.github.io/kopaja/jt.png",
    "content": "https://dwiizz.github.io/kopaja/jateng.html",
    "video": ""
  },
@@ -165,7 +165,7 @@
    "id": 6,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Timur",
-   "image": "https://dwiizz.github.io/kopaja/jatim.png",
+   "image": "https://dwiizz.github.io/kopaja/jt.png",
    "content": "https://dwiizz.github.io/kopaja/jatim.html",
    "video": ""
  },
@@ -173,7 +173,7 @@
    "id": 7,
    "category": "Cek Pajak",
    "title": "Cek Pajak Bali",
-   "image": "https://dwiizz.github.io/kopaja/bali.png",
+   "image": "https://dwiizz.github.io/kopaja/bl.png",
    "content": "https://dwiizz.github.io/kopaja/bali.html",
    "video": ""
  },
@@ -309,7 +309,7 @@
    "id": 26,
    "category": "Cek Pajak",
    "title": "Cek Pajak Maluku Utara",
-   "image": "https://dwiizz.github.io/kopaja/maluku.png",
+   "image": "https://dwiizz.github.io/kopaja/ml.png",
    "content": "https://dwiizz.github.io/kopaja/malut.html",
    "video": ""
  },
