@@ -79,45 +79,26 @@
       "name": "Cek Pajak",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
     },
-    {
-      "id": 2,
-      "name": "Game",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
-    },
-    {
-      "id": 3,
-      "name": "OS",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
-    },
-    {
-      "id": 4,
-      "name": "Coding",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
-    },
+    
     {
       "id": 5,
-      "name": "Mods",
+      "name": "Cek BPKB",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
     },
     {
       "id": 6,
-      "name": "How To",
+      "name": "Konsultasi",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
     },
     {
       "id": 7,
-      "name": "Tips & Trick",
+      "name": "Info Samsat",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
     },
     {
       "id": 8,
-      "name": "Lifestyle",
+      "name": "Persyaratan",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
-    },
-    {
-      "id": 9,
-      "name": "Android",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
     }
   ],
   "posts": [
