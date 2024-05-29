@@ -22,7 +22,7 @@
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
       "url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "index.html",
+      "url_dark": "cek/index.html",
       "toolbar": true
     },
     {
