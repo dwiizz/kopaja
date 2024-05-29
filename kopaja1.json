@@ -34,11 +34,19 @@
       "toolbar": true
     },
     {
-      "name": "Informasi",
+      "name": "Info Pemutihan",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
-      "url": "https://dwiizz.github.io/kopaja/konsultasi.html",
-      "url_dark": "https://dwiizz.github.io/kopaja/informasi.html",
+      "url": "https://dwiizz.github.io/kopaja/pemutihan.html",
+      "url_dark": "https://dwiizz.github.io/kopaja/pemutihan.html",
+      "toolbar": true
+    },
+    {
+      "name": "Prosedur dan Syarat Layanan Samsat",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
+      "url": "https://dwiizz.github.io/kopaja/prosedur.html",
+      "url_dark": "https://dwiizz.github.io/kopaja/prosedur.html",
       "toolbar": true
     },
     {
