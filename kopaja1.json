@@ -34,19 +34,19 @@
       "toolbar": true
     },
     {
-      "name": "Konsultasi",
+      "name": "Informasi",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
       "url": "https://dwiizz.github.io/kopaja/konsultasi.html",
-      "url_dark": "https://dwiizz.github.io/kopaja/konsultasi.html",
+      "url_dark": "https://dwiizz.github.io/kopaja/informasi.html",
       "toolbar": true
     },
     {
-      "name": "Privacy Policy",
-      "type": "assets",
+      "name": "Konsultasi",
+      "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html",
+      "url": "https://dwiizz.github.io/kopaja/konsultasi.html",
+      "url_dark": "https://dwiizz.github.io/kopaja/konsultasi.html",
       "toolbar": true
     }
   ],
