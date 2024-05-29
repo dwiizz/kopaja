@@ -18,7 +18,7 @@
   ],
   "menus": [
     {
-      "name": "Home",
+      "name": "Cek Pajak",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
       "url": "file:///android_asset/cek/index.html",
@@ -26,19 +26,19 @@
       "toolbar": true
     },
     {
-      "name": "Aliendroid",
+      "name": "Cek BPKB",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://aliendro.id/profile/solodroid",
-      "url_dark": "",
+      "url": "file:///android_asset/cek/bpkb.html",
+      "url_dark": "file:///android_asset/cek/bpkb.html",
       "toolbar": true
     },
     {
-      "name": "Codecanyon",
+      "name": "Konsultasi",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
-      "url": "https://codecanyon.net/user/solodroid/portfolio",
-      "url_dark": "",
+      "url": "https://dwiizz.github.io/kopaja/konsultasi.html",
+      "url_dark": "https://dwiizz.github.io/kopaja/konsultasi.html",
       "toolbar": true
     },
     {
