@@ -21,7 +21,7 @@
       "name": "Cek Pajak",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "file:///android_asset/cek/index.html",
+      "url": "file:///android_asset/cek/perjanjian.html",
       "url_dark": "file:///android_asset/cek/perjanjian.html",
       "toolbar": true
     },
