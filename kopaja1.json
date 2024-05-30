@@ -18,17 +18,25 @@
   ],
   "menus": [
     {
-      "name": "Cek Pajak",
+      "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4481/4481380.png",
       "url": "file:///android_asset/cek/perjanjian.html",
       "url_dark": "file:///android_asset/cek/perjanjian.html",
       "toolbar": true
     },
     {
+      "name": "Cek Pajak",
+      "type": "url",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4481/4481126.png",
+      "url": "file:///android_asset/cek/index.html",
+      "url_dark": "file:///android_asset/cek/index.html",
+      "toolbar": true
+    },
+    {
       "name": "Cek BPKB",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4481/4481344.png",
       "url": "file:///android_asset/cek/bpkb.html",
       "url_dark": "file:///android_asset/cek/bpkb.html",
       "toolbar": true
@@ -36,7 +44,7 @@
     {
       "name": "Info Pemutihan",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4481/4481226.png",
       "url": "https://dwiizz.github.io/kopaja/pemutihan.html",
       "url_dark": "https://dwiizz.github.io/kopaja/pemutihan.html",
       "toolbar": true
@@ -44,7 +52,7 @@
     {
       "name": "Prosedur dan Syarat Layanan Samsat",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4481/4481058.png",
       "url": "https://dwiizz.github.io/kopaja/prosedur.html",
       "url_dark": "https://dwiizz.github.io/kopaja/prosedur.html",
       "toolbar": true
@@ -52,7 +60,7 @@
     {
       "name": "Konsultasi",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4481/4481062.png",
       "url": "https://dwiizz.github.io/kopaja/konsultasi.html",
       "url_dark": "https://dwiizz.github.io/kopaja/konsultasi.html",
       "toolbar": true
